@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "aws-sdk": "^2.783.0",
+    "formidable": "^1.2.2",
     "next": "10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
